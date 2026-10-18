@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/bootfit-demo/sw.js', { scope: '/bootfit-demo/' })})}
