@@ -1,1 +1,0 @@
-import{c as e,l as t,r as n,s as r,t as i}from"./styles-C9k7m1Wb.js";var a=t(e(),1),o=r(),s=n();function c(){return(0,s.jsx)(i,{})}(0,o.createRoot)(document.getElementById(`root`)).render((0,s.jsx)(a.StrictMode,{children:(0,s.jsx)(c,{})}));
